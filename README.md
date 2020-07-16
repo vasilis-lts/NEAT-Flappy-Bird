@@ -1,6 +1,6 @@
 # NEAT-Flappy-Bird
 
 // Daniel Shiffman
-// Neuro-Evolution Flappy Bird with TensorFlow.js
+// Neuro-Evolution Flappy Bird
 // http://thecodingtrain.com
-// https://youtu.be/cdUNkwXx-I4
+
